@@ -1,12 +1,11 @@
 # EXPERIMENT-04-INTERRUPT-GENERATION-USING-SENSOR-AND-VISUALIZING-USING-SERIAL-MONITOR
 
-###  DATE: 24.02.2026
 
-**NAME:** ADITAAYAN M
 
-**ROLL NO:** 212223040006
+**NAME:** HARISH S
+**ROLL NO:** 212224110022
 
-**DEPARTMENT:** CSE
+
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
